@@ -1,0 +1,7 @@
+*.pt
+*.gz
+*.pkl
+*.pyc
+*.json
+
+!imgs/DACN_dataset.tar.gz
